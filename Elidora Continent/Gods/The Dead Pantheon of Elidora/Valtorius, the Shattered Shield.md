@@ -1,0 +1,3 @@
+- **Domain:** Protection and Sacrifice
+- **Description:** Valtorius was the stalwart defender of mortals, known for placing himself between the innocent and harm. He perished during the Primordial Age, shattering his divine essence to seal an ancient evil. His death left the world more vulnerable to unchecked forces.
+- **Legacy:** His worship faded, but warriors and knights often whisper his name in prayer when taking an oath to protect others.

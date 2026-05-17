@@ -1,0 +1,1 @@
+The third Nexus Soul is a living seed from the Feywild, containing the essence of nature and magic. The Seed is guarded by a powerful elven druid who has sworn to protect it at all costs. To retrieve the Seed, the players may need to prove their worthiness to the druid by completing a series of nature-based challenges.

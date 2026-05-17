@@ -1,0 +1,3 @@
+- **Domain:** Dreams and Prophecy
+- **Description:** Cyndrelia was the goddess who guided mortals through their dreams, offering visions of the future or solace during troubled times. She was consumed by an eldritch nightmare entity she tried to banish from the Dreamscape, leaving her domain fractured and chaotic.
+- **Legacy:** Her temples are now abandoned, and prophetic dreams have grown rare and unreliable, often veering into madness.

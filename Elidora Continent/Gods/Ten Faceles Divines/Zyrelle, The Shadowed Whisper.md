@@ -1,0 +1,4 @@
+- **Concept:** Dreams, imagination, and the subconscious.
+- **Symbol:** A starry web stretching between two crescent moons.
+- **Worshippers:** Dreamers, mystics, and those seeking inspiration.
+- **Description:** Nytheris governs the realm of dreams and visions, inspiring mortals to see beyond reality and into realms of possibility.

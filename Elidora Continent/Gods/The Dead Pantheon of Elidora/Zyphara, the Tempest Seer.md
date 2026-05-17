@@ -1,0 +1,3 @@
+- **Domain:** Storms and Navigation
+- **Description:** Zyphara was a goddess who guided sailors and controlled the seas' wrath. She was slain during a naval war between mortals who sought to claim her blessings for themselves. Without her, storms now rage unpredictably, and many sailors feel lost at sea.
+- **Legacy:** Her name is spoken in fear, and offerings are still cast into the ocean in the hope of calming her wrathful spirit.

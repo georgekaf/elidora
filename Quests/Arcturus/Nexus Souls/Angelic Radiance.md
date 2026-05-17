@@ -1,0 +1,1 @@
+The fourth Nexus Soul is a shard of divine radiance, containing the essence of a celestial being. The Radiance is guarded by a powerful cleric who believes that the Radiance is key to unlocking his true potential as a champion of the divine. To convince the cleric to give up the Radiance, the players may need to demonstrate their own devotion to a divine cause.

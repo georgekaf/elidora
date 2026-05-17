@@ -1,0 +1,4 @@
+- **Domain:** Light, Justice, Leadership
+- **Alignment:** Lawful Good
+- **Symbol:** A golden sun with a crown at its center
+- **Description:** Aurenion is revered as the god of the sun, truth, and righteous leadership. He is often worshiped by kings, paladins, and those seeking justice. His followers emphasize fairness, honesty, and the pursuit of the greater good.

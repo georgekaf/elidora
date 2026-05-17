@@ -1,0 +1,4 @@
+- **Concept:** Chaos, ambition, and destruction.
+- **Symbol:** A flame erupting from broken chains.
+- **Worshippers:** Rebels, warriors, and those who reject authority.
+- **Description:** Zelthar represents the destructive forces of chaos that pave the way for new beginnings. Worshippers seek to break down the old to build the new.

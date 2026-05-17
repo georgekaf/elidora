@@ -1,0 +1,4 @@
+   - **Domain:** Trickery, Shadows, Freedom
+   - **Alignment:** Chaotic Neutral
+   - **Symbol:** A mask split between black and silver
+   - **Description:** The goddess of deception, rebellion, and individuality, Zyrelle is often worshiped by thieves, rebels, and those who reject authority. She inspires cunning and resourcefulness.

@@ -1,0 +1,4 @@
+- **Concept:** Strength, endurance, and perseverance.
+- **Symbol:** A mountain peak with a crack running through it.
+- **Worshippers:** Warriors, builders, and survivors.
+- **Description:** Thalovar inspires those who endure hardship and rise stronger from it, symbolizing the triumph of will over adversity.

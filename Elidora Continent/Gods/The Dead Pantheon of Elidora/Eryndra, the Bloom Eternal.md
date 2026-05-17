@@ -1,0 +1,3 @@
+- **Domain:** Life and Nature
+- **Description:** The goddess of growth and renewal, Eryndra nurtured the natural world and ensured the seasons flowed in harmony. She was poisoned by a rival god jealous of her beauty, and her death resulted in unpredictable weather and dying ecosystems.
+- **Legacy:** Ancient groves dedicated to her are now withering, and druids mourn her loss in their rituals.

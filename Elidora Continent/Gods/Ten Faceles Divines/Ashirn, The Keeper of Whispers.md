@@ -1,0 +1,4 @@
+- **Concept:** Secrets, shadows, and hidden truths.
+- **Symbol:** A mask split into black and white halves.
+- **Worshippers:** Spies, thieves, and those who value discretion.
+- **Description:** Ashirn thrives in secrecy, representing the unseen forces that shape the world. Worshippers believe knowledge hidden is as powerful as knowledge revealed.

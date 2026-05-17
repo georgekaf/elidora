@@ -1,0 +1,1 @@
+A group that hates Verosia and acts against it, it is considered a terrorist cell by Verosia and gold is offered for any information.

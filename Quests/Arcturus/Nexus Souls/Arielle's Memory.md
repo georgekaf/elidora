@@ -1,0 +1,14 @@
+The final piece of the puzzle is not a Nexus Soul, but rather the memory of a young girl named Arielle. The players first meet Arielle early in their adventures, and over time they come to realize that she possesses a unique ability to remember things that no one else can. As they learn more about the Nexus Souls and their importance, they may begin to suspect that Arielle's Memory could be a valuable addition to their collection. However, convincing a young girl to give up her memories is not an easy task. The players may need to approach the situation delicately, and find a way to explain the gravity of the situation without scaring or traumatizing Arielle. They may also need to uncover the true nature of her memory and its potential usefulness, and offer her some form of compensation or protection in exchange for relinquishing it. Ultimately, the fate of the world may hinge on their ability to convince Arielle to give up her precious memories. Once they have all eleven pieces, the players will have the power to unlock the full potential of the Nexus Souls and use it to save the world from destruction.
+possible outcomes depending on whether or not Arielle gives up her memories willingly:
+
+If Arielle gives up her memories willingly:
+
+Arielle is hailed as a hero for sacrificing her memories to help save the world. She may become a legend or a folk hero, and her selflessness may inspire others to act in similarly heroic ways.
+The players are able to use Arielle's Memory to unlock the full power of the Nexus Souls, and they are able to defeat the villain and save the world from destruction. Arielle's sacrifice is not in vain, and the world is forever changed by her contribution to the fight.
+Arielle may also experience some negative consequences, such as a loss of identity or a feeling of emptiness without her memories. The players may need to help her cope with these challenges, and find a way to make her feel whole again.
+
+If Arielle does not give up her memories willingly:
+
+The players may need to resort to more extreme measures to retrieve Arielle's Memory, such as using force or coercion. This may lead to moral conflicts and the players questioning whether the ends justify the means.
+Arielle may be traumatized by the experience of having her memories taken from her, and she may never be the same again. This could have long-term consequences for her mental and emotional well-being.
+If the players are unable to convince or coerce Arielle into giving up her memories, they may be forced to find another way to unlock the full power of the Nexus Souls. This could lead to a more challenging and risky path to victory, with uncertain outcomes and higher stakes.

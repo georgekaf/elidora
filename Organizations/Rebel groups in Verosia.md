@@ -1,0 +1,1 @@
+Rebel groups in Verosia are diverse factions opposing the kingdom's rule, driven by grievances such as inequality, corruption, or territorial disputes. While some seek reform through subversion and guerrilla tactics, others aim to overthrow the monarchy entirely, creating a network of shadowy alliances and hidden strongholds scattered across the land.

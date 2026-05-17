@@ -1,0 +1,3 @@
+- **Domain:** Music and Inspiration
+- **Description:** Neryos inspired mortals with creativity and artistry, his songs said to be the source of all melody in the world. He vanished when mortals ceased to honor him, and his influence faded into silence.
+- **Legacy:** The world’s music became melancholic after his death, and many bards claim his muse is gone forever.

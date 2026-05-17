@@ -1,0 +1,1 @@
+The fifth Nexus Soul is a fiery ember containing the essence of a powerful demon. The Ember is guarded by a demonic warlock who believes that the Ember is key to unlocking his true potential as a servant of the infernal powers. To convince the warlock to give up the Ember, the players may need to prove that they can offer the warlock a greater source of power.

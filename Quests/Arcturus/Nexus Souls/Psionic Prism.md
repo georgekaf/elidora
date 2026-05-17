@@ -1,0 +1,1 @@
+The ninth Nexus Soul is a prism that contains the essence of a powerful psionic being. The Prism is guarded by a psionic warrior who believes that the Prism is key to unlocking their true potential. To convince the warrior to give up the Prism, the players may need to prove that

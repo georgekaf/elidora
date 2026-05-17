@@ -1,0 +1,3 @@
+- **Domain:** Death and Transition
+- **Description:** Morthan was the calm and impartial guide of souls, ensuring they reached their final rest. He was destroyed in a mortal uprising against death, leaving the cycle of life and death disrupted. Ghosts and undead now roam more freely, untethered to their destinies.
+- **Legacy:** His followers are few, reduced to secret cults that attempt to restore the balance he once maintained.

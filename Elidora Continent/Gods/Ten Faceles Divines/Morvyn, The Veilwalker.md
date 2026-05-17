@@ -1,0 +1,4 @@
+- **Concept:** Transition, death, and the unknown.
+- **Symbol:** A shrouded figure holding a lantern.
+- **Worshippers:** Undertakers, seers, and those who guide others through difficult transitions.
+- **Description:** Morvyn embodies the crossing of thresholds, from life to death, and from ignorance to understanding. Followers view death as a journey, not an end.

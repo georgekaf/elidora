@@ -1,0 +1,4 @@
+- **Concept:** Infinite potential and freedom.
+- **Symbol:** An open circle surrounded by stars.
+- **Worshippers:** Dreamers, explorers, and revolutionaries.
+- **Description:** Caelirion represents endless possibilities and the pursuit of personal and collective growth. Worshippers celebrate freedom of thought, expression, and the breaking of limitations.
