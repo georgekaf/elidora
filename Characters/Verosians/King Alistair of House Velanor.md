@@ -1,10 +1,12 @@
-**King Alistair of House Velanor**
+**King Alistair of House Velanor (and House Ravenshield)**
 
-House Velanor is an ancient and noble lineage that has ruled over the Kingdom of Verosia for centuries. The Velanor name is synonymous with honor, justice, and the pursuit of peace, embodying the ideals of the kingdom. Known as "The Shield of Verosia," the Velanor dynasty has stood as a bulwark against external threats and internal strife, maintaining stability through diplomacy and strength.
+King Alistair carries the lineage of two noble houses. His father's line is **House Velanor**, an ancient dynasty that has ruled Verosia for centuries. His mother's line is **House Ravenshield**, from which he also descends. Both houses share the same sigil — a golden griffon rampant on a deep blue field — and both are synonymous with honor, justice, and the pursuit of peace.
 
-The sigil of House Velanor is a golden griffon on a field of deep blue, representing courage, vigilance, and the wisdom of leadership. Their motto, **"Strength Through Unity,"** reflects their belief in the importance of collaboration among the diverse peoples of Verosia to face the challenges of their world.
+House Velanor is known as "The Shield of Verosia," having stood as a bulwark against external threats and internal strife, maintaining stability through diplomacy and strength. House Ravenshield contributed equally to the kingdom's legacy, and Alistair honors both names in his rule.
 
-King Alistair, as the current head of House Velanor, upholds these traditions while seeking to guide Verosia into a new era of prosperity. However, his trust in the High Council and his desire for peace can sometimes blind him to the subtle machinations of those who seek to undermine the kingdom.
+The sigil of both houses is a golden griffon on a field of deep blue, representing courage, vigilance, and the wisdom of leadership. Their shared motto, **"Strength Through Unity,"** reflects their belief in the importance of collaboration among the diverse peoples of Verosia to face the challenges of their world.
+
+King Alistair, as the current head of both bloodlines, upholds these traditions while seeking to guide Verosia into a new era of prosperity. However, his trust in the High Council and his desire for peace can sometimes blind him to the subtle machinations of those who seek to undermine the kingdom.
 
 **Just**: Despite being manipulated, King Alistair believes in justice and tries to make fair decisions for his subjects.
 

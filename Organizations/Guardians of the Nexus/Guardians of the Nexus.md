@@ -38,15 +38,20 @@ Ultimately, the means of ensuring the survival of the memories would depend on t
 Essentially the Guardians were a race that occupied the East part of Elidora, particularly an island. 
 They are long lost buts bits and pieces of their knowledge survives to this day in the deep caverns of [[The Sultanate of Zephyr]]. Some direct decendants of the first Guardians ended up there after a great schism that tore the first guardians apart and founded a secret group of people that vowed to protect the secrets of the cosmos.
 
-How this is tied to the Heroes: 
+How this is tied to the Heroes — Combined Timeline:
 
-Arcturus was looking for the nexus tracker items.
-He encountered Arielle and her parents when she was just a baby. 
-He killed them and kidnapped her.
-He eventually discovered the location of the items in a verosian scolar's home, his lineage was leading back to the war that took the world back 1000 years. His ancestors were mages that helped create the sphere of oblivion and how to use the  nexus tracker and souls to feed it.
+1. **Ancient** — After the Sphere catastrophe (1000 years ago), a Verosian scholar of Guardian lineage hid the Nexus Tracker items (Tome + Compass). His ancestors were mages who helped create the Sphere.
 
-After the sphere was gone, his ancestors hide the tracker. 
-Some Sultanate spies learned of the items and stole them before Arcturus got to them. 
-They wore Verosian armors and they were swithcing to Solari armors in a hideout in the Dead Tree's outskirts, right before they attempted to cross the Wound and reach the Athum spires and hide the tracker forever. 
+2. **Aaliyah discovers** — Aaliyah Nabil, descendant of that bloodline, finds the Tome and Compass while working at Verosian University. She contacts the Shrouded Path, who instruct her to bring the items to the Athum Spires in Zephyr.
 
-Ideally the heroes will retrieve the tracker and the campaign will kick off.
+3. **Sultanate spies intercept** — Before Aaliyah can deliver them, Shrouded Path-aligned Sultanate agents retrieve the items. They use the Verosian-armor → Solari-armor swap deception at a Dead Trees hideout, then attempt to cross the Wound toward the Athum Spires.
+
+4. **Aaliyah captured** — During the chaos, Aaliyah is captured by the Hag Covenant in the Dead Trees. The heroes may rescue her later and escort her to the Sultanate of Zephyr.
+
+5. **Crossing fails** — The Wound crossing goes wrong. The Tome is lost and ends up on Solarian soil, where a farmer finds it.
+
+6. **Eldoria recovers it** — The Free State of Eldoria learns the Tome has resurfaced. They retrieve it from the farmer and plan to move it through Zephyr to the Last Guardians in Calandria to keep it from Arcturus.
+
+7. **Arcturus learns** — Arielle's bloodline memories give Arcturus a general sense of the tracker's location. Through Merchant Guildmaster Renard → Spymaster Malik, he refines that to a precise location: the Tome is with Eldorian guards being moved through Zephyr.
+
+8. **Intro quest** — Arcturus, keeping Solari uninvolved, hires the heroes through a lieutenant (a clone of Vaelith Duskbane) to steal the Tome from the Eldorian guards during the move. The heroes unknowingly work for the villain.

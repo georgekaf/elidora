@@ -27,16 +27,16 @@ The employer is a lieutenant who claims to represent the [[Archmage Arcturus]]
 
 Backstory (Not to revealed to the player)
 
+The lieutenant is a younger version of [[Vaelith Duskbane]], a clone created with the clone spell. The mentor of Arcturus.
 
-The lieutenant is a younger version of [[Vaelith Duskbane]] a clone created with the clone spell. The mentor of Arcturus. 
+How the items of the Nexus tracker ended up there? (Combined timeline)
 
-How the items of the Nexus tracker ended up there? 
-[[Aaliyah Nabil (Female)]] - a student in the Verosian university of Arcane - picked up an apprentice's job as the helper of one of the low level Scholars. She happened to be from a linege dating back to one of the Guardians that were researching the nexus souls 1000 years ago. It was late at night when she stumbled accroos a curious book and a compass as part of books cover. Centuries have made the book a fogged memory to the eyes of many, it was merely used as a prank nowadays as every time you wrote something in it's empty pages the ink would dissappear and every time you ripped of a page, during overnight the book would grow it back, as it was never ripped off.
+1. [[Aaliyah Nabil (Female)]] - a student in the Verosian university of Arcane - picked up an apprentice's job as the helper of one of the low level Scholars. She happened to be from a lineage dating back to one of the Guardians that were researching the nexus souls 1000 years ago. It was late at night when she stumbled across a curious book and a compass as part of the book's cover.
 
-The scholar told her it was nothing more than a gag, a curiosity of some sort. Too much energy went into it to merely play pranks on other people. Far more important thingsd were awaiting. If only his ancestors would spend their energy discovering stuff he would be as reach as those High Council members.
+2. Aaliyah reported it and after a couple of months she received back word from the Shrouded Path: "Bring it to us, it needs to be evaluated. If other people are interested after its disappearance, disappear yourself." Before she could deliver them, Shrouded Path-aligned Sultanate spies retrieved the items and attempted to cross the Wound toward the Athum Spires.
 
-Aliyah reported it and after a couple of months she received back word from the Shrouded path. "Bring it to us, it needs to be evaluated. If other people are interested after its disappearance, dissappear yourself."
+3. During the chaos, Aaliyah was captured by the Hag Covenant in the Dead Trees. The heroes may encounter her and escort her to the edge of the Sultanate of Zephyr.
 
-And thus a young girl was found captive of the hags, lost in the Dead trees.
+4. The Wound crossing failed. The Tome was lost and later found by a farmer on Solarian soil.
 
-The heroes may encounter her and escort her to the edge of the Sultanate of Zephyr.
+5. The Free State of Eldoria recovered it from the farmer and planned to move it to Zephyr. Arielle's memories gave Arcturus a general sense; Renard and Malik pinpointed the exact transport route. He sent the heroes to intercept the Eldorian guards.

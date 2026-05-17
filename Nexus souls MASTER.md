@@ -836,27 +836,20 @@ Here are all ten of the Nexus Souls, with their respective information and names
 If a Nexus Soul is destroyed or dies, it is believed that a new soul will eventually take its place. However, it is unknown what kind of soul would take its place and how it would be decided. Some scholars believe that the new soul could be from a similar being or creature, while others believe that it could be a completely different type of soul. It is also believed that the new soul may not necessarily have the same properties or abilities as the previous one, and that it may take time for it to fully mature and develop its powers. However, this is all speculative, as there has never been a recorded instance of a Nexus Soul being destroyed or dying.
 
 **Story**  
-As Archmage Arcturus was conducting his research on the Nexus Souls, he stumbled upon a legend that spoke of a young girl who possessed the ability to unlock the power of the Souls. He scoured the kingdoms in search of this girl and eventually found her in the kingdom of Verosia. Arielle was traveling with her parents at the time, unaware of the power she possessed.
 
-Arcturus observed Arielle for some time and eventually realized that she was the key to unlocking the power of the Nexus Souls. He decided to take matters into his own hands and concocted a plan to eliminate her parents and manipulate Arielle into helping him.
+Legend has it that only a girl possesses the memories to locate and activate the Nexus Tracker. These memories transfer to a new infant upon reaching adulthood.
 
-One night, Arcturus attacked Arielle's parents in their sleep, killing them both. When Arielle woke up to the sound of her parents' screams, Arcturus was waiting for her. He used his magical powers to calm her down and convinced her that her parents had been killed by enemies of the kingdom who were after her power.
+As Archmage Arcturus conducted his research on the Nexus Souls, he stumbled upon this legend. He scoured the kingdoms in search of the girl with the bloodline memories and eventually found her in Verosia. Arielle was traveling with her parents at the time, unaware of the power she possessed.
 
-Feeling scared and alone, Arielle trusted Arcturus and agreed to help him. He told her that she was the only one who could unlock the power of the Nexus Souls and that they could use that power to protect the kingdom from its enemies. Arcturus then revealed to her the Nexus Tracker, which she was able to activate using her memory.
+Arcturus observed Arielle and realized she was the key to activating the Nexus Tracker. He concocted a plan to eliminate her parents and manipulate her. One night, Arcturus attacked Arielle's parents in their sleep, killing them both. When Arielle woke to their screams, Arcturus calmed her with magic and convinced her that enemies of the kingdom had killed her parents.
 
-Arielle was unaware of the true intentions of Arcturus and believed that she was helping to protect her kingdom. However, as time went on, she began to realize that Arcturus had ulterior motives and was only using her for his own gain.
+Feeling scared and alone, Arielle trusted Arcturus. He told her she was the only one who could unlock the power of the Nexus Souls and that they could use it to protect the kingdom. He then showed her the Nexus Tracker, which she activated using her inherited memories.
 
-The legend has it that only a girl possesses the memories to reveal the location of the nexus tracker. The powers stay active from birth to adulthood. Then they are transferred to a new infant. 
+Arielle was unaware of Arcturus's true intentions. She believed she was helping her kingdom, but over time began to realize he had ulterior motives.
 
-Legend has it that only a girl possesses the memories to reveal the location of the nexus tracker. These powers remain active from birth to adulthood, at which point they are transferred to a new infant. Archmage Arcturus discovered the location of the nexus tracker and became obsessed with acquiring its power. He scoured the kingdom of Verosia for any potential girls with the ability to unlock its secrets.
+Arielle's bloodline memories gave Arcturus a general sense of the Nexus Tracker items' location. Through his spy network — Merchant Guildmaster Renard reporting to Spymaster Malik — he refined that to a precise location: the Tome had resurfaced in Solarian territory, was recovered by the Free State of Eldoria, and was being moved through Zephyr.
 
-One day, Arcturus discovered Arielle and her traveling parents in the kingdom. He sensed the power within her and suspected that she was the key to his research for a great magical power. He approached her parents, posing as a friendly and powerful wizard who wished to mentor Arielle and help her develop her abilities. In reality, Arcturus had sinister intentions and planned to use Arielle's power for his own gain.
-
-Arielle's parents, unaware of Arcturus's true nature, accepted his offer and allowed him to take Arielle under his wing. Arcturus began to manipulate Arielle and gradually convinced her to share her memories with him. Once he had acquired enough information, Arcturus killed Arielle's parents and took her into his custody.
-
-With Arielle in his possession, Arcturus began to pressure her to reveal the location of the nexus tracker. He promised her power, knowledge, and protection in exchange for her cooperation. Arielle, terrified and traumatized by the loss of her parents and the cruel treatment she received at Arcturus's hands, reluctantly agreed to help him.
-
-Arcturus then sent the heroes on a quest to retrieve the nexus tracker, providing them with the information Arielle had shared with him.
+Arcturus sent the heroes on a quest to retrieve the Nexus Tracker from the Eldorian guards during the move, keeping Solari uninvolved and the heroes unaware they worked for him.
 
 **How to have the memories**
 

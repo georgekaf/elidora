@@ -1,4 +1,4 @@
-The dragonborn general who is leading the invading army into Verosia.
+The dragonborn general who leads the combined Solarian and Drakonian army into Verosia.
 Date of conspiracy: Began 1 year ago.
 
 Allies:

@@ -14,7 +14,7 @@ Organizations:
 
 - **Type:** A powerful and influential kingdom in the continent of **Elidora**.
     
-- **Ruler:** **King Alistair of House Ravenshield**, a wise but cautious monarch. He rules with the advice of the **Council of the Crown**, made up of powerful leaders and specialists.
+- **Ruler:** **King Alistair of House Velanor (and House Ravenshield)**, a wise but cautious monarch. He rules with the advice of the **Council of the Crown**, made up of powerful leaders and specialists.
     
 - **Government:** A **monarchy with a ruling council**, balancing royal authority with input from mages, clerics, generals, druids, artificers, and diplomats.
     

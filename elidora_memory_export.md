@@ -16,7 +16,7 @@ The current age is defined by diplomacy, betrayal, magical secrets, and the esca
 
 ### Kingdom of Verosia
 
-A prosperous and influential kingdom ruled by **King Alistair of House Ravenshield**. Verosia is guided by the **Council of the Crown**, a powerful advisory body representing magic, faith, war, diplomacy, nature, craftsmanship, and hidden knowledge.
+A prosperous and influential kingdom ruled by **King Alistair of House Velanor (and House Ravenshield)**. Verosia is guided by the **Council of the Crown**, a powerful advisory body representing magic, faith, war, diplomacy, nature, craftsmanship, and hidden knowledge.
 
 **Insignia:** A golden griffon rampant on a deep blue shield, with a crown of laurel leaves encircling its head. The griffon’s talons clutch a radiant sun, symbolizing strength, wisdom, and leadership.
 
@@ -518,7 +518,7 @@ The Council of the Crown serves King Alistair. It is organized into paired roles
 
 ### Important Council Members
 
-#### King Alistair of House Ravenshield
+#### King Alistair of House Velanor (and House Ravenshield)
 
 Wise but cautious monarch of Verosia.
 
@@ -669,12 +669,13 @@ The Wound is a dangerous geographic barrier and major hazard on the route toward
 
 - It emerged after the apocalyptic destruction of the sphere.
 - It became prominent during the Verosia–Solari war and the Sundering of the Guardians.
-- Verosia saw it as a perilous choke point that hindered pursuit when Sultanate-aligned spies stole the Nexus Tracker.
+- Verosia saw it as a perilous choke point that hindered pursuit when Sultanate-aligned spies attempted to cross with the Nexus Tracker items.
+- The crossing failed — the Tome was lost and later recovered by Eldoria.
 - Solari treated it pragmatically as an obstacle/waypoint.
 
-### Nexus Tracker Theft Route
+### Nexus Tracker Route (Combined Timeline)
 
-Verosian scholar’s home → Dead Trees Forest hideout → armor swap from Verosian to Solari armor → attempted Wound crossing → intended destination Athum Spires in Zephyr.
+Aaliyah's discovery at Verosian University → Shrouded Path intercept via Sultanate spies → Dead Trees Forest hideout → armor swap (Verosian to Solari) → attempted Wound crossing → crossing fails, Tome lost on Solarian soil → farmer finds it → Eldoria recovers from farmer → Eldorian guards transport toward Zephyr → heroes intercept (intro quest).
 
 ---
 

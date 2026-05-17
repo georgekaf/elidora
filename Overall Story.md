@@ -1,15 +1,17 @@
+Combined timeline of the Nexus Tracker items:
 
-Free state of eldoria wants to move the [[Tome with empty pages]] from Solari to Zephyr 
-and from there to the last guardians wherew they are in calandria (since they lost access to [[Arielle Arctos]] and her parents) in order to prevent Solarians and Arcturus from having it.
+1. **Ancient** — After the Sphere catastrophe (1000 years ago), a Verosian scholar of Guardian lineage hid the Nexus Tracker items (Tome + Compass). His ancestors were mages who helped create the Sphere.
 
-The [[Tome with empty pages]]  was considered lost until it was found on Solarian soil by a farmer.
-The area was destroyed hundreds of years ago when Verosia was with war in order to place the Elidora continent under trheir control
+2. **Aaliyah discovers** — Aaliyah Nabil, descendant of that bloodline, finds the Tome and Compass while working at Verosian University. She contacts the Shrouded Path, who instruct her to bring the items to the Athum Spires in Zephyr.
 
-So they placed their soldiers in the squad that was guarding it and on the night of the move the heroes gont involved. That is why the heroes discover the soldiers bickering and fighting in the hut with
+3. **Sultanate spies intercept** — Before Aaliyah can deliver them, Shrouded Path-aligned Sultanate agents retrieve the items. They use a Verosian-armor → Solari-armor swap deception at a Dead Trees hideout, then attempt to cross the Wound toward the Athum Spires.
 
-Arcturus find out from the Calandrian official [[Merchant Guildmaster Renard]]  who relayed the info through the trade routes to [[Spymaster Malik]] 
+4. **Aaliyah captured** — During the chaos, Aaliyah is captured by the Hag Covenant in the Dead Trees.
 
-Arcturus while he is almost 1000 yo Solarian, wanted Solaris not officially involved in the recovery, in order for the rebels of Free state of Eldoria to take the fall.
-He wants to control the nexus tracker and the only person who can control it.
+5. **Crossing fails** — The Wound crossing goes wrong. The Tome is lost and ends up on Solarian soil, where a farmer finds it.
 
-He believes he can use Verosians adventurers to further sell the impression of supporting Verosia 
+6. **Eldoria recovers it** — The Free State of Eldoria learns the Tome has resurfaced. They retrieve it from the farmer and plan to move it through Zephyr to the Last Guardians in Calandria to keep it from Arcturus.
+
+7. **Arcturus learns** — Arielle's bloodline memories give Arcturus a general sense of the tracker's location. Through [[Merchant Guildmaster Renard]] → [[Spymaster Malik]], he refines that to a precise location: the Tome is with Eldorian guards being moved through Zephyr.
+
+8. **Intro quest** — Arcturus (neither Verosian nor Solarian, ~1000 yo) wants Solari not officially involved. He hires the heroes through a lieutenant to steal the Tome from the Eldorian guards during the move, making it look like Verosian adventurers acting independently. He wants to control the Nexus Tracker and Arielle, the only person who can locate and activate it.
