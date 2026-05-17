@@ -7,7 +7,7 @@ It will be even more interesting to start the quest with the heroes holding kniv
 
 As they looked around, they saw that the house was surrounded by guards. The guards were from [[The Free State of Eldoria]], a nation of outcasts and rebels who had banded together to fight against the conspiracy of [[The Empire of Solari]] against [[The Kingdom of Verosia]]. The heroes knew that this would not be an easy mission.
 
-Suddenly, a figure emerged from the shadows. It was a spy who had discovered the location of the book with information from [[Arielle Arctos]] and had been sent to help the heroes retrieve it. The spy informed them of number of the guards trained and that they would need to use all their skills to get inside the house.
+Suddenly, a figure emerged from the shadows. It was a spy that [[Kaelith Vren]] had sent ahead to scout the location, and had been tracking the book's movements. The spy informed them of number of the guards trained and that they would need to use all their skills to get inside the house.
 
 The heroes nodded in agreement and quickly formulated a plan. They would split up into two groups: one would distract the guards while the other would sneak into the house and retrieve the book. They waited until it was 3.30 AM, the darkest hour of the night, and then sprang into action.
 

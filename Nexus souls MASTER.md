@@ -514,18 +514,18 @@ Quests:
       
     The final leg of the journey takes the heroes to the edge of the kingdom, where they discover the lost tome of cosmic knowledge. However, they are not alone \- a group of Solari soldiers have also discovered the tome and are attempting to take it back to their kingdom.  
       
-* Archmage Arcturus: Retrieve a powerful ancient artifact, the nexus tracker from a dangerous ruin that will help protect the kingdom from a looming threat.  
-  * **4.2  Battle Plans in Military Outpost**  
-    * The heroes are called upon by Archmage Arcturus, the Keeper of the Cosmic Secrets, to retrieve a powerful ancient artifact known as the Nexus Tracker. The Nexus Tracker is a set of three items that work together to locate the Nexus Souls, and the final item needed is a vial of liquid that can only be obtained from a dangerous location.  
-        
-      As they embark on their journey to obtain the liquid, the heroes come across various obstacles such as treacherous terrain and hostile creatures. However, they finally reach their destination, a cavernous volcano, where the vial of liquid is located. They must navigate through the treacherous paths of the volcano to obtain the vial.  
-        
-      With the vial in their possession, the heroes journey back to Verosia with the Nexus Tracker, ready to give it to Archmage Arcturus. However, on their way back, they come across a Solari military outpost. The heroes decide to stake it out and discover a Verosian spy who has overheard a conversation between two Solari officials discussing battle plans for an offensive against Verosia.  
-        
-      The heroes quickly realize the importance of the Nexus Tracker and the looming threat that Archmage Arcturus was warning them about. With the knowledge of the Solari's true intentions, the heroes rush back to Verosia to deliver the Nexus Tracker and the vial of liquid to Archmage Arcturus.  
-        
-      As they arrive in Verosia, Archmage Arcturus greets them and thanks them for their bravery and dedication. He explains that the Nexus Tracker will help them locate and protect the Nexus Souls, and the vial of liquid will aid them in their defense against the Solari's impending attack.  
-        
+* Archmage Arcturus (through his lieutenant [[Kaelith Vren]]): Retrieve a powerful ancient artifact, the nexus tracker from a dangerous ruin that will help protect the kingdom from a looming threat.
+  * **4.2 Battle Plans in Military Outpost**
+    * The heroes are called upon through a disguised lieutenant named [[Kaelith Vren]] — a clone of [[Vaelith Duskbane]] — acting for Archmage Arcturus, the Warden of Esoteric Knowledge, to retrieve a powerful ancient artifact known as the Nexus Tracker. The Nexus Tracker is a set of three items that work together to locate the Nexus Souls, and the final item needed is a vial of liquid that can only be obtained from a dangerous location.
+
+      As they embark on their journey to obtain the liquid, the heroes come across various obstacles such as treacherous terrain and hostile creatures. However, they finally reach their destination, a cavernous volcano, where the vial of liquid is located. They must navigate through the treacherous paths of the volcano to obtain the vial.
+
+      With the vial in their possession, the heroes journey back to Verosia with the Nexus Tracker, ready to give it to Archmage Arcturus. However, on their way back, they come across a Solari military outpost. The heroes decide to stake it out and discover a Verosian spy who has overheard a conversation between two Solari officials discussing battle plans for an offensive against Verosia.
+
+      The heroes quickly realize the importance of the Nexus Tracker and the looming threat that Archmage Arcturus was warning them about. With the knowledge of the Solari's true intentions, the heroes rush back to Verosia to deliver the Nexus Tracker and the vial of liquid to Archmage Arcturus.
+
+      As they arrive in Verosia, Archmage Arcturus greets them and thanks them for their bravery and dedication. He explains that the Nexus Tracker will help them locate and protect the Nexus Souls, and the vial of liquid will aid them in their defense against the Solari's impending attack.
+
       The heroes feel a sense of relief as they have completed their quest and have aided in protecting their kingdom from the looming threat.  
         
 * High Priestess Seraphine: Investigate a series of mysterious omens and portents that have been troubling the kingdom, and determine their meaning and significance.  
@@ -847,6 +847,8 @@ Feeling scared and alone, Arielle trusted Arcturus. He told her she was the only
 
 Arielle was unaware of Arcturus's true intentions. She believed she was helping her kingdom, but over time began to realize he had ulterior motives.
 
+Arcturus publicly maintains the image of a heroic Verosian protector. His villainy is not revealed until late in the campaign — to the players and to the in-world factions alike.
+
 Arielle's bloodline memories gave Arcturus a general sense of the Nexus Tracker items' location. Through his spy network — Merchant Guildmaster Renard reporting to Spymaster Malik — he refined that to a precise location: the Tome had resurfaced in Solarian territory, was recovered by the Free State of Eldoria, and was being moved through Zephyr.
 
 Arcturus sent the heroes on a quest to retrieve the Nexus Tracker from the Eldorian guards during the move, keeping Solari uninvolved and the heroes unaware they worked for him.
@@ -875,7 +877,7 @@ The Nexus Tracker is a set of three items that work together to locate the Nexus
 
 1. A crystal compass: This crystal is attuned to the Nexus Souls and points in the direction of the nearest one. It is powered by the energy of the souls themselves and does not require any additional source of magic.  
      
-2. A book with empty pages: This book is enchanted to record the names and locations of the Nexus Souls when they are discovered. It can only be activated by a person who possesses the memories necessary to reveal the location of the souls.  
+2. A book with empty pages: This book is enchanted to record the names and locations of the Nexus Souls when they are discovered. It can only be activated by a person who possesses the memories necessary to locate and activate it.  
      
 3. A vial of liquid: This liquid is a rare and powerful magical ingredient that is necessary for the book to record the names and locations of the souls. It can only be obtained from a dangerous and hard-to-reach location, such as the heart of a volcano or the depths of the ocean.  
 * The vial of liquid could be a rare substance that is extracted from a mystical flower that only grows in a remote and treacherous location, such as a hidden valley guarded by powerful creatures or atop a mountain peak accessible only by climbing. Alternatively, it could be a rare mineral that is found in the depths of a labyrinthine cave system, guarded by fierce underground creatures.
