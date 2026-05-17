@@ -1,0 +1,163 @@
+@startuml
+skinparam packageStyle rectangle
+skinparam defaultTextAlignment center
+skinparam rectangle {
+  BorderColor #336699
+  BackgroundColor #F0F8FF
+}
+
+title "Nexus Souls Campaign — Quest Flow & Conspiracy Clues"
+
+' ===== COUNCIL MEMBERS & THEIR QUESTS =====
+
+package "Verosian High Council — Quest Givers" as COUNCIL {
+  rectangle "High Magus Zephyrion\nKeeper of Arcane Artifacts" as Z
+  rectangle "Lady Celestria\nVoice of the Heavens" as C
+  rectangle "Lord Valerian\nMaster of Tactics" as V_
+  rectangle "Archdruidess Ylara\nKeeper of Natural Balance" as Y
+  rectangle "Grand Inquisitor Darius\nKeeper of the Faith" as D
+  rectangle "Lady Isadora\nMistress of Arcane Arts" as I
+  rectangle "Sir Galen\nKnight of the Golden Sun" as G
+  rectangle "Master Artificer Thorne\nKeeper of Clockwork Secrets" as T
+  rectangle "Lady Althea\nMistress of Poisons & Cures" as A
+  rectangle "Archsage Alder\nKeeper of Cosmic Secrets" as AL
+  rectangle "Archmage Arcturus\nWarden of Esoteric Knowledge\n(via Kaelith Vren)" as AR
+  rectangle "High Priestess Seraphine" as S
+  rectangle "Lord Galadriel Dawnblade" as GD
+  rectangle "Lady Lyriel Silvermist" as LY
+  rectangle "Master Taranis Oakstaff" as MO
+  rectangle "Sir Percival Stormwind" as SP
+  rectangle "Lady Morgana Shadowmoon" as MS
+  rectangle "Master Fintan Stonehammer" as MF
+  rectangle "Lady Eiluned Moonstone" as EM
+  rectangle "Sir Tristan Goldenheart" as ST
+}
+
+' ===== QUESTS WITH OBJECTIVES =====
+
+package "Quests" as QUESTS {
+  rectangle "1.1 Solari's Emblem on Rebel Weapons\n— Retrieve dungeon components\n— Discover Solari funding rebels\n— Lady Sabrina identified" as Q1_1
+  rectangle "1.2 Trail of Money from Unknown Sources\n— Stop magical earthquake\n— Find half-burned ledger\n— Trace shell companies → Renard" as Q1_2
+  rectangle "1.3 Coded Message of Solari's Commanders\n— Special forces behind enemy lines\n— Find hidden documents\n— Decipher Caesar cipher" as Q1_3
+  rectangle "2.1 War Propaganda Posters\n— Investigate forest disturbance\n— Stop Solari deforestation\n— Expose dark-magic mages" as Q2_1
+  rectangle "2.2 Secret Meeting with Verosian Rebels\n— Infiltrate cult in abandoned temple\n— Navigate traps and fanatics\n— Intercept Solari-rebel meeting" as Q2_2
+  rectangle "2.3 Coded Message about False-Flag Attack\n— Retrieve artifact from ancient temple\n— Find coded false-flag message\n— Uncover Solari's framing plan" as Q2_3
+  rectangle "3.1 State Propaganda — 9 Kingdoms\n— Diplomacy across Eldoria, Eridia,\n  Zephyr, Orlais, Valoria, Drakonia,\n  Calandria, Arathor, Solari\n— Expose propaganda in each" as Q3_1
+  rectangle "3.2 Overheard Conversation\n— Retrieve stolen clockwork automaton\n— Overhear Solari false-flag discussion\n— Race to warn Verosia" as Q3_2
+  rectangle "3.3 Coded Message from Spymaster Malik\n— Gather rare medicinal plant\n— Stop Solari spies targeting Caelan\n— Decode Malik's instructions" as Q3_3
+  rectangle "4.1 Solari Military Convoys\n— Retrieve lost tome of cosmic knowledge\n— Spot siege engines in convoys\n— Evidence of invasion prep" as Q4_1
+  rectangle "4.2 Steal Nexus Tracker\n— Hired by Kaelith Vren (disguised)\n— Steal from Eldorian guards\n— Hand to lieutenant, employer hidden\n— Stumble on Solari outpost" as Q4_2
+  rectangle "4.3 Secret Council in Capital City\n— Investigate omens and portents\n— Obtain golden sigil ring\n— Infiltrate high-ranking council" as Q4_3
+  rectangle "5.1 Strange Activity in the Armory\n— Stop warlord border raids\n— Investigate armory theft\n— Recover stolen weapons" as Q5_1
+  rectangle "5.2 Sabotage at the Smithy\n— Secure alliance gift weapon\n— Investigate burned smithy\n— Trace to Sir Reginald" as Q5_2
+  rectangle "5.3 Overheard: Sabotage of Locking Mechanism\n— Investigate strange wildlife\n— Find Solari spy campsite\n— Discover armory sabotage" as Q5_3
+  rectangle "6.1 Mercenaries' Boast\n— Capture bandit leader Black Viper\n— Overhear mercenaries' Solari contract\n— Disrupt supply lines" as Q6_1
+  rectangle "6.2 Encrypted Ledger\n— Gather spell components\n— Test suffocation barrier spell\n— Decrypt Solari mercenary ledger" as Q6_2
+  rectangle "6.3 Slip of the Tongue\n— Gather siege weapon intel\n— Eavesdrop on Solari soldiers\n— Catch invasion code phrase" as Q6_3
+  rectangle "7.1 Military Buildup\n— Infiltrate enemy stronghold\n— Scout armory, command center\n— Assess invasion readiness" as Q7_1
+  rectangle "7.2 Border Sightings\n— Train young knights\n— Track dishonorable knights\n— Obtain hidden scout report" as Q7_2
+}
+
+' ===== CONSPIRACY CLUES BY DIFFICULTY =====
+
+package "Conspiracy Evidence by Difficulty Tier" as CLUES {
+  rectangle "<color:green><b>EASY — 4.1 Solari Military Convoys</b></color>\n🟢 Visible troop movements\n🟢 Siege engines on the move\n🟢 Rumors from merchants/travelers\n🟢 Confirms Solari is preparing for war" as EASY
+
+  rectangle "<color:#DAA520><b>MEDIUM — 4.2 Battle Plans in Outpost</b></color>\n🟡 Coded military documents\n🟡 Solari offensive strategy revealed\n🟡 Requires infiltrating an outpost\n🟡 Names General Kaelthas as ally" as MEDIUM
+
+  rectangle "<color:red><b>HARD — 4.3 Secret Council</b></color>\n🔴 Requires golden sigil ring\n🔴 Full invasion timeline discussed\n🔴 Names all co-conspirators\n🔴 Reveals false-flag attack plan\n🔴 Only obtainable via high-risk infiltration" as HARD
+}
+
+' ===== CONSPIRACY WEB =====
+
+package "The Conspiracy — Who is Behind It" as CONSPIRACY {
+  rectangle "Archmage Arcturus\n— Mastermind (~1000 yo)\n— Neither Verosian nor Solarian\n— Public face: Warden of Esoteric Knowledge\n— Secret goal: Nexus Souls → godlike power\n— Uses Kaelith Vren (clone) as lieutenant" as ARCTURUS
+  rectangle "Empire of Solari\n— Military muscle\n— Provides army, logistics\n— Believes Verosia is a threat\n— General Kaelthas leads combined\n  Solari + Drakonian forces" as SOLARI
+  rectangle "Guildmaster Renard\n— Republic of Calandria\n— Launders money via shell companies\n— Funds rebel groups in Verosia\n— Bribes nobles and officials" as RENARD
+  rectangle "Spymaster Malik\n— Sultanate of Zephyr\n— Gathers intelligence\n— Spreads propaganda\n— Coded messages to Solari" as MALIK
+  rectangle "General Kaelthas\n— Confederation of Drakonia\n— Dragonborn commander\n— Leads invasion army\n— Joined conspiracy 1 year ago" as KAELTHAS
+}
+
+' ===== CONSPIRACY 7-STEP PLAN =====
+
+package "The 7-Step Conspiracy" as PLAN {
+  rectangle "Step 1: Fund rebels\nin Verosia\n(via Renard)" as P1
+  rectangle "Step 2: Spread propaganda\naccusing Verosia of\nmilitary buildup" as P2
+  rectangle "Step 3: Sabotage Verosian\ninfrastructure\n(via Sir Reginald)" as P3
+  rectangle "Step 4: Solari military\nconvoys + positioning\non the border" as P4
+  rectangle "Step 5: Stage false-flag\nattack, blame Verosia\nfor aggression" as P5
+  rectangle "Step 6: Launch covert\noperations to weaken\nVerosian defenses" as P6
+  rectangle "Step 7: Full-scale\ninvasion led by\nGeneral Kaelthas" as P7
+}
+
+' ===== CONNECTIONS: COUNCIL → QUESTS =====
+
+Z --> Q1_1
+C --> Q1_2
+V_ --> Q1_3
+Y --> Q2_1
+D --> Q2_2
+I --> Q2_3
+G --> Q3_1
+T --> Q3_2
+A --> Q3_3
+AL --> Q4_1
+AR --> Q4_2
+S --> Q4_3
+GD --> Q5_1
+LY --> Q5_2
+MO --> Q5_3
+SP --> Q6_1
+MS --> Q6_2
+MF --> Q6_3
+EM --> Q7_1
+ST --> Q7_2
+
+' ===== CONNECTIONS: QUESTS → CLUES =====
+
+Q1_1 .[#green].> EASY : "Discovers Solari funding rebels (Lady Sabrina)"
+Q1_2 .[#red].> HARD : "Traces shell companies → Renard"
+Q1_3 .[#DAA520].> MEDIUM : "Decodes commander communications"
+Q2_1 .[#green].> EASY : "Reveals Solari propaganda machine"
+Q2_2 .[#DAA520].> MEDIUM : "Exposes Solari–Verosian rebel meeting"
+Q2_3 .[#red].> HARD : "Decodes false-flag attack message"
+Q3_2 .[#red].> HARD : "Overhears Solari false-flag discussion"
+Q3_3 .[#DAA520].> MEDIUM : "Decodes Malik's propaganda instructions"
+Q4_1 .[#green].> EASY : "Discovers siege engines in convoys"
+Q4_2 .[#DAA520].> MEDIUM : "Stumbles on Solari military outpost"
+Q4_3 .[#red].> HARD : "Infiltrates secret war council"
+Q5_1 .[#green].> EASY : "Investigates stolen weapons"
+Q5_2 .[#DAA520].> MEDIUM : "Traces sabotage to Sir Reginald"
+Q5_3 .[#DAA520].> MEDIUM : "Overhears armory sabotage details"
+Q6_1 .[#green].> EASY : "Interrogates mercenaries about Solari"
+Q6_2 .[#red].> HARD : "Decrypts full Solari mercenary ledger"
+Q6_3 .[#DAA520].> MEDIUM : "Overhears invasion code phrase"
+Q7_1 .[#green].> EASY : "Scouts military buildup"
+Q7_2 .[#DAA520].> MEDIUM : "Reports large Solari army at border"
+
+' ===== CONNECTIONS: CLUES → CONSPIRACY =====
+
+EASY --> ARCTURUS
+MEDIUM --> ARCTURUS
+HARD --> ARCTURUS
+ARCTURUS --> SOLARI
+ARCTURUS --> RENARD
+ARCTURUS --> MALIK
+ARCTURUS --> KAELTHAS
+
+' ===== CONNECTIONS: CONSPIRACY → PLAN =====
+ARCTURUS --> P1
+ARCTURUS --> P2
+ARCTURUS --> P3
+ARCTURUS --> P4
+ARCTURUS --> P5
+ARCTURUS --> P6
+ARCTURUS --> P7
+P1 --> P2
+P2 --> P3
+P3 --> P4
+P4 --> P5
+P5 --> P6
+P6 --> P7
+
+@enduml
