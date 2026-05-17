@@ -1,3 +1,23 @@
+**Campaign Overview**
+
+The heroes find themselves standing in front of a large and imposing house in the outskirts of the city. They had received a message from a lieutenant, who claimed to represent the Archmage Arcturus, requesting their help in retrieving a book that was hidden inside the house. The lieutenant had been very secretive about the nature of the book and why it was so important, but the heroes were used to working under such circumstances.
+
+As they looked around, they saw that the house was surrounded by guards. The guards were from The Free State of Eldoria, a nation of outcasts and rebels who had banded together to fight against the conspiracy of Solari against Verosia. The heroes knew that this would not be an easy mission.
+
+Suddenly, a figure emerged from the shadows. It was a spy who had discovered the location of the book and had been sent to help the heroes retrieve it. The spy informed them that the guards were highly trained and that they would need to use all their skills to get inside the house.
+
+The heroes nodded in agreement and quickly formulated a plan. They would split up into two groups: one would distract the guards while the other would sneak into the house and retrieve the book. They waited until it was 3.30 AM, the darkest hour of the night, and then sprang into action.
+
+The group that was tasked with distracting the guards engaged them in battle. The guards were fierce and highly skilled, but the heroes were able to hold their own. Meanwhile, the other group snuck into the house and began searching for the book.
+
+They quickly discovered that the house was heavily guarded and booby-trapped. The spy led the way, using their knowledge of the house to guide the heroes through the maze of traps and guards. After several close calls and a few battles, they finally found the book.
+
+It was a large, leather-bound tome with empty pages. The heroes couldn't understand why this book was so important, but they trusted that the Archmage Arcturus knew what he was doing. They quickly retrieved the book and made their way back to the entrance.
+
+As they emerged from the house, they were greeted by the sight of their comrades engaged in a fierce battle with the guards. The heroes quickly joined the fray, and with their combined strength, they were able to defeat the guards and make their escape.
+
+Once they were safely away from the house, the spy revealed to them the true nature of the book. It was a magical tome that could only be written in by those who possessed great magical power.
+
 Kingdoms
 
 * **The Kingdom of Verosia** \- The kingdom where the campaign starts, and where the players are from.  
@@ -514,20 +534,14 @@ Quests:
       
     The final leg of the journey takes the heroes to the edge of the kingdom, where they discover the lost tome of cosmic knowledge. However, they are not alone \- a group of Solari soldiers have also discovered the tome and are attempting to take it back to their kingdom.  
       
-* Archmage Arcturus (through his lieutenant [[Kaelith Vren]]): Retrieve a powerful ancient artifact, the nexus tracker from a dangerous ruin that will help protect the kingdom from a looming threat.
+* Archmage Arcturus (through his lieutenant [[Kaelith Vren]]): Retrieve the nexus tracker from Eldorian guards transporting it through the outskirts.
   * **4.2 Battle Plans in Military Outpost**
-    * The heroes are called upon through a disguised lieutenant named [[Kaelith Vren]] — a clone of [[Vaelith Duskbane]] — acting for Archmage Arcturus, the Warden of Esoteric Knowledge, to retrieve a powerful ancient artifact known as the Nexus Tracker. The Nexus Tracker is a set of three items that work together to locate the Nexus Souls, and the final item needed is a vial of liquid that can only be obtained from a dangerous location.
+    * The heroes are called upon through a disguised lieutenant named [[Kaelith Vren]] — a clone of [[Vaelith Duskbane]] — acting for Archmage Arcturus, the Warden of Esoteric Knowledge, to steal a powerful ancient artifact known as the Nexus Tracker from Eldorian guards moving it through the city outskirts.
 
-      As they embark on their journey to obtain the liquid, the heroes come across various obstacles such as treacherous terrain and hostile creatures. However, they finally reach their destination, a cavernous volcano, where the vial of liquid is located. They must navigate through the treacherous paths of the volcano to obtain the vial.
+      With the Nexus Tracker in their possession, the heroes hand it to the lieutenant. Kaelith Vren pays them and offers further work through him later — including retrieving a rare vial of liquid needed for the Tome to record the Nexus Souls. The vial is hidden deep within a cavernous volcano, accessible only through treacherous paths guarded by hostile creatures and hazardous terrain. The employer's identity remains hidden; all contact goes through Vren.
 
-      With the vial in their possession, the heroes journey back to Verosia with the Nexus Tracker, ready to give it to Archmage Arcturus. However, on their way back, they come across a Solari military outpost. The heroes decide to stake it out and discover a Verosian spy who has overheard a conversation between two Solari officials discussing battle plans for an offensive against Verosia.
+      On their way back, the heroes come across a Solari military outpost. They decide to stake it out and discover a Verosian spy who has overheard a conversation between two Solari officials discussing battle plans for an offensive against Verosia. This intelligence reveals a larger conflict brewing beyond the Tracker retrieval.
 
-      The heroes quickly realize the importance of the Nexus Tracker and the looming threat that Archmage Arcturus was warning them about. With the knowledge of the Solari's true intentions, the heroes rush back to Verosia to deliver the Nexus Tracker and the vial of liquid to Archmage Arcturus.
-
-      As they arrive in Verosia, Archmage Arcturus greets them and thanks them for their bravery and dedication. He explains that the Nexus Tracker will help them locate and protect the Nexus Souls, and the vial of liquid will aid them in their defense against the Solari's impending attack.
-
-      The heroes feel a sense of relief as they have completed their quest and have aided in protecting their kingdom from the looming threat.  
-        
 * High Priestess Seraphine: Investigate a series of mysterious omens and portents that have been troubling the kingdom, and determine their meaning and significance.  
   * **4.3 Secret Council in Capital City with Sigil on Golden Ring**  
     * High Priestess Seraphine of the kingdom of Verosia is deeply concerned about the series of mysterious omens and portents that have been plaguing the kingdom. She believes that these signs are a warning of a great danger that is yet to come, and she needs the heroes to investigate and interpret them.  
@@ -919,22 +933,4 @@ A false flag attack is a covert operation where the attacker disguises themselve
 
 It's important to note that false flag attacks are unethical and often illegal, as they involve deception and manipulation of people and events.
 
-Introduction story
-
-The heroes find themselves standing in front of a large and imposing house in the outskirts of the city. They had received a message from a lieutenant, who claimed to represent the Archmage Arcturus, requesting their help in retrieving a book that was hidden inside the house. The lieutenant had been very secretive about the nature of the book and why it was so important, but the heroes were used to working under such circumstances.
-
-As they looked around, they saw that the house was surrounded by guards. The guards were from The Free State of Eldoria, a nation of outcasts and rebels who had banded together to fight against the conspiracy of Solari against Solari. The heroes knew that this would not be an easy mission.
-
-Suddenly, a figure emerged from the shadows. It was a spy who had discovered the location of the book and had been sent to help the heroes retrieve it. The spy informed them that the guards were highly trained and that they would need to use all their skills to get inside the house.
-
-The heroes nodded in agreement and quickly formulated a plan. They would split up into two groups: one would distract the guards while the other would sneak into the house and retrieve the book. They waited until it was 3.30 AM, the darkest hour of the night, and then sprang into action.
-
-The group that was tasked with distracting the guards engaged them in battle. The guards were fierce and highly skilled, but the heroes were able to hold their own. Meanwhile, the other group snuck into the house and began searching for the book.
-
-They quickly discovered that the house was heavily guarded and booby-trapped. The spy led the way, using their knowledge of the house to guide the heroes through the maze of traps and guards. After several close calls and a few battles, they finally found the book.
-
-It was a large, leather-bound tome with empty pages. The heroes couldn't understand why this book was so important, but they trusted that the Archmage Arcturus knew what he was doing. They quickly retrieved the book and made their way back to the entrance.
-
-As they emerged from the house, they were greeted by the sight of their comrades engaged in a fierce battle with the guards. The heroes quickly joined the fray, and with their combined strength, they were able to defeat the guards and make their escape.
-
-Once they were safely away from the house, the spy revealed to them the true nature of the book. It was a magical tome that could only be written in by those who possessed great magical power.
+For the full intro quest, see [[Intro Quest]].
